@@ -1,0 +1,299 @@
+[
+  {
+    "model": "articles.comment",
+    "pk": 1,
+    "fields": {
+      "article_id": 9,
+      "user_id": 22,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "기묘한 이야기 강력 추천합니다!!! 넷플에 있어요"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 2,
+    "fields": {
+      "article_id": 9,
+      "user_id": 23,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "전 마블 좋아하시면 딪플 추천 드립니다."
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 3,
+    "fields": {
+      "article_id": 9,
+      "user_id": 25,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "김은희 작가 신작 재밌더라고요.. 디즈니 플러스에 있어요"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 4,
+    "fields": {
+      "article_id": 10,
+      "user_id": 7,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "근처 맛집은 없고 국사까지 걸어나오시면 먹을 거 많아용 ㅎㅎ"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 5,
+    "fields": {
+      "article_id": 10,
+      "user_id": 11,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "북촌손만두 추천합니다"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 6,
+    "fields": {
+      "article_id": 10,
+      "user_id": 13,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "저는 맨날 맘스터치 가용"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 7,
+    "fields": {
+      "article_id": 11,
+      "user_id": 13,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "저도 박찬욱 감독 좋아해요 ㅎㅎ 잘 보고 갑니다!!"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 8,
+    "fields": {
+      "article_id": 10,
+      "user_id": 9,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "맛집 추천 잘 보고 갑니다!! 감사합니다"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 9,
+    "fields": {
+      "article_id": 6,
+      "user_id": 22,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "저도 별로였어요 ㅠㅠ "
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 10,
+    "fields": {
+      "article_id": 3,
+      "user_id": 25,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "스워 4 명작이죠 ㅎㅎ"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 11,
+    "fields": {
+      "article_id": 4,
+      "user_id": 25,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "스워 4 저는 재밌게 봤는데 ㅠㅠㅠ"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 12,
+    "fields": {
+      "article_id": 5,
+      "user_id": 12,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "에에올 정말 재밌죠!!! 저는 n차 관람했습니다"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 13,
+    "fields": {
+      "article_id": 5,
+      "user_id": 13,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "에에올 ㅠㅠㅠ 제 인생영화 bb"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 14,
+    "fields": {
+      "article_id": 7,
+      "user_id": 7,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "가디언즈 오늘 봐야겠네요 딪플에 있겠죠?"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 15,
+    "fields": {
+      "article_id": 7,
+      "user_id": 9,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "가디언즈 조카가 좋아해서 여러 번 봤습니다 ㅎㅎ"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 16,
+    "fields": {
+      "article_id": 8,
+      "user_id": 17,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "전 맨날 버거킹 갑니다 ㅎㅎㅎ"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 17,
+    "fields": {
+      "article_id": 9,
+      "user_id": 14,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "넷플 킹덤 추천이요~~!"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 18,
+    "fields": {
+      "article_id": 12,
+      "user_id": 17,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "오 웡카 전시회 하는군요! 정보 감사합니다."
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 19,
+    "fields": {
+      "article_id": 13,
+      "user_id": 25,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "헤어질결심?"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 20,
+    "fields": {
+      "article_id": 13,
+      "user_id": 7,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "박쥐요!"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 21,
+    "fields": {
+      "article_id": 13,
+      "user_id": 9,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "올드보이 아닌가요"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 22,
+    "fields": {
+      "article_id": 13,
+      "user_id": 25,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "박쥐 222"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 23,
+    "fields": {
+      "article_id": 13,
+      "user_id": 21,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "복나것??"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 24,
+    "fields": {
+      "article_id": 13,
+      "user_id": 13,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "아가씨"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 25,
+    "fields": {
+      "article_id": 14,
+      "user_id": 15,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "인셉션~~~ 너무 쉽네요"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 26,
+    "fields": {
+      "article_id": 14,
+      "user_id": 17,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "인셉션!!"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 27,
+    "fields": {
+      "article_id": 14,
+      "user_id": 14,
+      "created_at": "2023-11-22T05:11:39.041116Z",
+      "updated_at": "2023-11-22T05:11:39.041116Z",
+      "content": "INCEPTION"
+    }
+  }
+]

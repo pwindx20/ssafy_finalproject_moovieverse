@@ -1,0 +1,2414 @@
+[
+  {
+    "model": "movies.review",
+    "pk": 1,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 670292,
+      "rank": 2,
+      "content": "가족을 무기로 내세우는 무매력 SF",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 2,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 575264,
+      "rank": 4,
+      "content": "(도대체 무슨 말을 하는건지는 모르겠지만) 속시원한 납득의 액션",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 3,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 385687,
+      "rank": 4,
+      "content": "속도와 긴장감, 그 사이에서 펼쳐지는 역동적인 액션! 마음을 사로잡는 최고의 영화 경험",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 4,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 609681,
+      "rank": 5,
+      "content": "볼 때마다 숨이 멎는 순간들, 이 영화는 진정한 액션의 즐거움을 선사한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 5,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 678512,
+      "rank": 4,
+      "content": "헤어날 수 없는 긴장감, 눈을 뗄 수 없는 압도적인 액션! 이 영화는 현실에서 벗어나게 해준다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 6,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 565770,
+      "rank": 5,
+      "content": "시선을 떼기 힘든 역동적인 액션, 강렬한 스토리! 완벽한 영화 체험을 선사하는 작품.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 7,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 980489,
+      "rank": 3,
+      "content": "스크린에서 터져나오는 전율! 액션 영화의 새로운 기준을 세우다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 8,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 615656,
+      "rank": 4,
+      "content": "심포니처럼 흐르는 액션의 조화, 영화 속 세계에 몰두할 수밖에 없는 명작.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 9,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 762430,
+      "rank": 4,
+      "content": "한 마디로 표현하자면 '죽이는 액션'! 이 정도의 몰입은 정말 특별한 경험이다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 10,
+    "fields": {
+      "user_id": 7,
+      "movie_id": 667538,
+      "rank": 4,
+      "content": "화끈한 전투와 감동적인 이야기, 이 영화는 액션 영화의 진수를 보여준다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 11,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 1010581,
+      "rank": 4,
+      "content": "로맨스의 매력에 푹 빠져, 감정이 울려퍼지는 이 작품은 정말로 마음에 든다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 12,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 716814,
+      "rank": 3,
+      "content": "사랑의 복잡성과 아름다움을 다룬 이 작품은 정말로 마음이 따뜻해지는 영화였다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 13,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 884605,
+      "rank": 4,
+      "content": "로맨스의 감동을 자아내는 연출과 뛰어난 연기력, 마음이 설레는 순간들이 가득한 작품",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 14,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 666277,
+      "rank": 5,
+      "content": "사랑의 미소와 감동이 가득한 로맨스, 마음을 따뜻하게 만들어주는 최고의 영화!",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 15,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 537915,
+      "rank": 4,
+      "content": "로맨스의 황홀한 세계에 빠져, 주인공들의 사랑 이야기에 마음이 흔들린다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 16,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 296096,
+      "rank": 5,
+      "content": "여주 인생 너무 해피해피 개썅마이웨이라 보는 사람까지 기분이 좋아져 버린다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 17,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 114,
+      "rank": 4,
+      "content": "신데렐라 스토리를 빌려쓴 수많은 영화들 가운데 이 영화만큼 매력적인 작품을 찾기란 쉬운일이 아니다. 순수가 살아있기 때문이다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 18,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 744275,
+      "rank": 3,
+      "content": "얼굴이 모든 개연성을 만들어 버렸다. 외국 팬픽 영화에서 나온 K-드라마식 엔딩이라니.. 그래서 다음 영화가 언제라구요?",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 19,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 597,
+      "rank": 5,
+      "content": "97년에 이런 영화를 만든다는게 말이되나",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 20,
+    "fields": {
+      "user_id": 8,
+      "movie_id": 613504,
+      "rank": 5,
+      "content": "로맨스의 마법에 휩싸여, 이 영화를 보면서 새로운 사랑에 대한 꿈을 키워나갈 수 있었다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 21,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 545611,
+      "rank": 5,
+      "content": "그 모든 곳에서 그 모든 것이 한꺼번에 될 수 있다 해도 지금 이 순간을.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 22,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 396535,
+      "rank": 2,
+      "content": "좀비영화에 자꾸 한국영화의 고질적인 요소를 끼워넣으려고 애를 쓴다. 결국 그 요소들이 영화를 멍청하게 만든다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 23,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 601796,
+      "rank": 4,
+      "content": "이 집 짬뽕 괜찮은데?",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 24,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 851644,
+      "rank": 3,
+      "content": "영화 한 편에도 이렇게 다 무너지는 마음인데 어찌 잊을 수 있겠나. 찬란했던 그때 그 시절, 하염없는 그리움만 남기고 간 너라는 추억을.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 25,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 799379,
+      "rank": 1,
+      "content": "힘 잔뜩 들어간 피칠갑, 숨겨질 리 없는 유치함.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 26,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 496243,
+      "rank": 5,
+      "content": "황금종려상 받은 영화를 자막없이 볼 수 있는 행복",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 27,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 606403,
+      "rank": 2,
+      "content": "감정의 폭이 깊어질수록 오락의 재미는 반감된다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 28,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 581528,
+      "rank": 2,
+      "content": "글쎄… 이젠 리뷰 쓰기도 좀 귀찮은 장르…",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 29,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 671040,
+      "rank": 1,
+      "content": "감독(배우로 나옴)이 죽을 정도로 맞는 두 번의 장면을 베스트컷으로 뽑겠습니다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 30,
+    "fields": {
+      "user_id": 9,
+      "movie_id": 615173,
+      "rank": 1,
+      "content": "마지막 30분 CG 액션을 보기위해 믿기 힘들정도로 부자연스럽고 오글거리는 1시간 30분의 티키타카를 견뎌내야 한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 31,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 545611,
+      "rank": 4,
+      "content": "수억개의 우주를 가로질러야 다다를 수 있는 너의 품.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 32,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 238,
+      "rank": 5,
+      "content": "영화계의 '대부'가 된 <대부>",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 33,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 299534,
+      "rank": 5,
+      "content": "팬들과 함께 추억의 앨범을 하나하나 넘긴 끝에 전하는 우정 가득한 송사.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 34,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 916224,
+      "rank": 1,
+      "content": "솔직히 말해 날씨의 아이에서 발전한 게 없다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 35,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 361743,
+      "rank": 4,
+      "content": "기계가 인간을 대체해가는 시대에 아직은 어림없다고 외치는 사자후.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 36,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 900667,
+      "rank": 4,
+      "content": "자유를 갈망하며 ﻿떠다니던 새는 그렇게 새로운 시대의 바다를 항해한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 37,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 493529,
+      "rank": 3,
+      "content": "익숙함을 상쇄시키는 액션과 캐릭터의 매력.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 38,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 672,
+      "rank": 4,
+      "content": "\"우리의 진짜 모습은 능력이 아니라 선택을 통해 나타나지.\"",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 39,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 640146,
+      "rank": 2,
+      "content": "캉받네",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 40,
+    "fields": {
+      "user_id": 10,
+      "movie_id": 661374,
+      "rank": 3,
+      "content": "생각 없이 말하는 걸 진실로 착각하는 건 위험한 일입니다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 41,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 545611,
+      "rank": 5,
+      "content": "도대체 이런 영화들만 보면 그냥 저릿저릿하기만 하고 무슨 말을 해야 할 지 모르겠다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 42,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 411,
+      "rank": 4,
+      "content": "한때 호그와트 입학통지서와 옷장 문 너머 나니아 중 어느 쪽이 더 환상적인 행운일까, 하고 쓸데없이 진지한 고민을 하던 시절도 있었더랬다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 43,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 616037,
+      "rank": 3,
+      "content": "재치와 확장이 아니라 집착과 퇴행으로 보인다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 44,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 666277,
+      "rank": 2,
+      "content": "간질간질한 것도 아니고 무미건조",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 45,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 24428,
+      "rank": 4,
+      "content": "무엇보다 탁월한 캐릭터 코미디.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 46,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 496243,
+      "rank": 4,
+      "content": "상승과 하강으로 명징하게 직조해낸 신랄하면서 처연한 계급 우화.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 47,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 453395,
+      "rank": 3,
+      "content": "우려했던 샘 레이미의 단점이 전부 다 드러났던 것 같다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 48,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 808,
+      "rank": 4,
+      "content": "만들어진 히어로가 아니라 만들어가는 히어로.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 49,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 157336,
+      "rank": 5,
+      "content": "그래비티가 어머니에 관한 영화였다면 인터스텔라는 아버지에 관한 영화다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 50,
+    "fields": {
+      "user_id": 11,
+      "movie_id": 507086,
+      "rank": 3,
+      "content": "'극장'이라고 하는 오락영화 한편을 마음 편히 즐길 수 있고 재미를 더하게 해주는 이 공간의 의미를 다시 한번 되새겨준다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 51,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 545611,
+      "rank": 4,
+      "content": "온 우주를 다 살아봐도 너의 평범함을 선택할게",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 52,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 19995,
+      "rank": 5,
+      "content": "블록버스터 역사의 새 이정표 (아브라카다바타!).",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 53,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 601796,
+      "rank": 2,
+      "content": "이질적인 요소들로 가득한 그 세계를 설득해내지 못한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 54,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 122917,
+      "rank": 3,
+      "content": "각색 규모와 방향이 잘못되면 피터 잭슨조차도.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 55,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 615173,
+      "rank": 2,
+      "content": "너무 멀리 내다보느라 피하지 못한 발 밑 진창에서 제자리걸음을 한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 56,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 278,
+      "rank": 5,
+      "content": "이 영화 때문에 내가 평가한 다른 영화들의 평점을 하나씩 내려야만 하는 참사가 일어났다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 57,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 27205,
+      "rank": 5,
+      "content": "관객에게 놀란이 실행하는 '인셉션'",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 58,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 299534,
+      "rank": 5,
+      "content": "나도 3000만큼 사랑해",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 59,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 155,
+      "rank": 5,
+      "content": "히스레져에게 찬사를.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 60,
+    "fields": {
+      "user_id": 12,
+      "movie_id": 70160,
+      "rank": 3,
+      "content": "소재의 잠재력에 비해 아기자기하게 통제된 오락.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 61,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 545611,
+      "rank": 5,
+      "content": "보고나와서 넌 뭘 이런걸 보자하냐고 재미없다고하는 엄마 ..까지가 이 영화의 완성",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 62,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 198663,
+      "rank": 4,
+      "content": "메이즈 러너 : 뜻밖의 존잼",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 63,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 361743,
+      "rank": 4,
+      "content": "관람 시작 전에 갖고 계신 휴대폰을 비행기 탑승 모드로 변경해주세요",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 64,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 581528,
+      "rank": 3,
+      "content": "억지로 끼워 맞춘듯한 설정들과 스토리 전개가 눈에 좀 거슬렸다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 65,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 299537,
+      "rank": 3,
+      "content": "허락된 힘이 아니라 자각된 힘. 시각적 개성보다는 안정적 화술로 다음 페이지를 준비한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 66,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 900667,
+      "rank": 2,
+      "content": "어렸을 때 봤던 무모한 모험의 대담함과 감동은 어디가고 유치하고 뻔한 요소들만 이리..",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 67,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 799379,
+      "rank": 1,
+      "content": "시나리오에 구멍이 너무 많아서 일일이 다 나열하기도 힘들정도다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 68,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 808,
+      "rank": 4,
+      "content": "보고나서도 딱히 자신의 못생김에 자부심이 생기지는 않는게 함정.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 69,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 666277,
+      "rank": 1,
+      "content": "힙스터를 위한 주말 연속극",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 70,
+    "fields": {
+      "user_id": 13,
+      "movie_id": 640146,
+      "rank": 2,
+      "content": "근사하게 압축하는 것이 아니라 힘겹게 커지고만 있다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 71,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 396535,
+      "rank": 3,
+      "content": "좀비보다 더 무서운건, 살아남기 위해 물불 가리지 않는 이기심으로 무장한 지독한 인간 군상의 모습",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 72,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 851644,
+      "rank": 2,
+      "content": "뿌연 화면 만큼이나 텁텁한 사랑 이야기",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 73,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 24428,
+      "rank": 4,
+      "content": "설정만으로도 관객들을 흥분시키는 마블 역사상 최대의 블록버스터. ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 74,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 916224,
+      "rank": 5,
+      "content": "문을 열어 과거를 꼭 안아주고픈 현재의 사람들",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 75,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 411,
+      "rank": 3,
+      "content": "돌이켜보면 '반지의 제왕'은 정말 뛰어난 판타지 영화였어.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 76,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 672,
+      "rank": 4,
+      "content": "1년 사이에 영화의 발전이 눈에 띈다. 세명의 마법사들의 비밀스런 탐정 그리고 성장기",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 77,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 19995,
+      "rank": 4,
+      "content": "그가 만든건 3D와 영상미 혁명의 이정표였지만 , 한편으론 더이상2D의 감성돋는 애니매이션을 못본다는것이 안타까울뿐",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 78,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 661374,
+      "rank": 4,
+      "content": "화려함이 휘몰아친다. '강강강'인 연출에 살짝 지루해질 때쯤 다시 관객을 몰입시킨다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 79,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 453395,
+      "rank": 3,
+      "content": "호러적 상상력의 접목이 눈길을 사로잡기는 한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 80,
+    "fields": {
+      "user_id": 14,
+      "movie_id": 507086,
+      "rank": 2,
+      "content": "메뚜기도 유월이 한 철.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 81,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 396535,
+      "rank": 2,
+      "content": "감성팔이할 시간은 꼬박꼬박 챙겨주는 친절하고 정이 넘쳐나는 한국형 좀비들.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 82,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 670,
+      "rank": 5,
+      "content": "박찬욱 영화 존나 잘만든다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 83,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 122917,
+      "rank": 4,
+      "content": "마치 오래된 친구같은 중간계와의 아쉬운 이별을 뒤로하고, 조용히 눈을 감은 채 언젠가 한번쯤 들러보고픈 골목쟁이 빌보네 집을 떠올려본다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 84,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 157336,
+      "rank": 4,
+      "content": "SF를 향한 놀런의 웅대한 꿈. 그 한가운데 자리한 가족영화의 간절한 순간.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 85,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 666277,
+      "rank": 2,
+      "content": "다음 생에는 좀 더 와닿을 수도요.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 86,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 27205,
+      "rank": 4,
+      "content": "플롯을 루빅스 큐브처럼 자유자재로 갖고 논다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 87,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 496243,
+      "rank": 1,
+      "content": "상류층 기능론자가 교묘히 ‘잘’ 만든 영화",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 88,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 335984,
+      "rank": 5,
+      "content": "매혹적이면서 경이로운 세계관 속 휴머니즘의 진정성을 묻다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 89,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 278,
+      "rank": 4,
+      "content": "길들여지지 않는 희망 그 불변의 아름다움에 대하여",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 90,
+    "fields": {
+      "user_id": 15,
+      "movie_id": 238,
+      "rank": 5,
+      "content": "거절 하지 못할 별5개",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 91,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 396535,
+      "rank": 3,
+      "content": "관람 전:드디어 한국에도 이런 영화가! 관람 후:한국 영화 맞네ㅇㅇ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 92,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 601796,
+      "rank": 3,
+      "content": "여러 장르를 혼합했는데 플러스가 아닌 0이 되어버린 요술. 최동훈 감독이었기에 더 신선했고 더 아쉬움이 남았던 작품.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 93,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 155,
+      "rank": 5,
+      "content": "내러티브와 스타일을 완벽히 장악한 자의 눈부신 활공.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 94,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 361743,
+      "rank": 5,
+      "content": "이것이 극장이 존재하는 이유. 영화 속 대사처럼 \"생각하지 말고\" 그냥 봐라",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 95,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 615173,
+      "rank": 2,
+      "content": "분명 파트2 라는 타이틀을 달고 나왔음에도 여전히 속편을 위한 참고서 같은 느낌뿐이면 이미 시리즈의 밑천은 얼추 다 드러난 듯 보인다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 96,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 493529,
+      "rank": 3,
+      "content": "여러의미로 디즈니스러운 킬링타임 팝콘무비.. 개그코드가 취향에 맞다면 볼만 할 듯.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 97,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 851644,
+      "rank": 4,
+      "content": "머물렀던 시대는 추억이라는 필터가 씌워져 아련해진다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 98,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 808,
+      "rank": 4,
+      "content": "순수했던 괴물 슈렉과 마녀의 저주에 걸린 공주 피오나의 애틋하면서도 달짝지근한 사랑이야기.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 99,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 640146,
+      "rank": 3,
+      "content": "새로운 페이즈를 선보이기엔 (약간) 부족했던 임팩트.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 100,
+    "fields": {
+      "user_id": 16,
+      "movie_id": 900667,
+      "rank": 2,
+      "content": "진짜 별별 이상한 열매가 다 나오네",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 101,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 396535,
+      "rank": 4,
+      "content": "치밀한 덫과 강력한 도끼를 함께 갖춘 괴력의 영화",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 102,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 24428,
+      "rank": 5,
+      "content": "자, 어디 한번 신명나게 놀아보자!",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 103,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 198663,
+      "rank": 2,
+      "content": "미로설계에 필요이상의 공을들인 나머지 미처 스토리를 설계하지 못함",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 104,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 453395,
+      "rank": 4,
+      "content": "김치피자탕수육 그자체.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 105,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 799379,
+      "rank": 1,
+      "content": "과몰입만 안했어도 신선한 영화일 수 있었는데. 역시나 기대를 저버리지않는 감독님의 오기와 아집과 빨간맛집착이 불러온 참극으로 막을내린다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 106,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 616037,
+      "rank": 2,
+      "content": "Guns N' Roses의 전류를 받아도 역부족.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 107,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 507086,
+      "rank": 2,
+      "content": "판을 깔아줘도 제대로 놀 줄 모르니 환장할 노릇.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 108,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 157336,
+      "rank": 5,
+      "content": "미친 영화. 살면서 이런 천재의 영화를 볼 수 있다니 행운이다. 3시간동안 난 미래에 있었다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 109,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 666277,
+      "rank": 3,
+      "content": "내가 나이기에 저지른 행동들과 그저 가능성으로 남은 순간들이 선사하는 인연이란 단어.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 110,
+    "fields": {
+      "user_id": 17,
+      "movie_id": 335984,
+      "rank": 4,
+      "content": "하나의 세계를 온전히 시각화한 드니 빌뇌브와 로저 디킨스의 협업.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 111,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 670,
+      "rank": 4,
+      "content": "껄끄러운 소재가 이정도 인기를 얻고 사람들에게 회자되는건 쉬운일이아니다. 진한여운이있는 영화",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 112,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 70160,
+      "rank": 2,
+      "content": "화려한 개막식과 밋밋한 본 게임.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 113,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 122917,
+      "rank": 4,
+      "content": "이걸 끝으로 반지의 제왕이 시작하니 반지의 제왕 시리즈 재개봉을 기대해도 되는 건가요?",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 114,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 916224,
+      "rank": 2,
+      "content": "대뜸 빠르게 뛰는 심장에 맥을 짚지 못한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 115,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 278,
+      "rank": 5,
+      "content": "어떤 인생은 영화가 되고 어떤 영화는 삶을 살게한다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 116,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 27205,
+      "rank": 5,
+      "content": "영화를 만들랬더니 관객을 림보에 빠뜨려버린 놀란.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 117,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 414906,
+      "rank": 3,
+      "content": "마스크 쓰고 보는 마스크 쓴 자들의 가짜 광기",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 118,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 671040,
+      "rank": 2,
+      "content": "주인공들을 필요이상으로 모자르게 설정한 후 전시하는 뒷골목 포르노",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 119,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 109445,
+      "rank": 3,
+      "content": "중독적인 노래들과 낭만적인 겨울풍광의 위력.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 120,
+    "fields": {
+      "user_id": 18,
+      "movie_id": 155,
+      "rank": 5,
+      "content": "수십편의 marvel보다 한편의 dc가 더욱 더 빛난다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 121,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 640146,
+      "rank": 3,
+      "content": "이젠 모험 자체가 무리수처럼 느껴진다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 122,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 670,
+      "rank": 4,
+      "content": "15년동안 감금시켜서 이 영화의 각본을 쓰라 해도 이보다 훌륭한 영화는 안 나올듯.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 123,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 601796,
+      "rank": 2,
+      "content": "방대하게 유치찬란한 눈요깃거리.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 124,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 453395,
+      "rank": 1,
+      "content": "더 무거워야 할 영화가 한없이 가볍고 전개는 급하고 연출은 정신없고 스토리는 유치하다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 125,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 299534,
+      "rank": 5,
+      "content": "내가 보고싶어했던 수많은 장면들과 내가 가장 보고싶지 않았던 장면 하나.. I Love You 3000.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 126,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 661374,
+      "rank": 3,
+      "content": "루브르 박물관이 기겁할 영화 ㅋㅋㅋ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 127,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 900667,
+      "rank": 1,
+      "content": "굉장히 실망스러운. 억지로 만든 듯 한 캐릭터. 그렇다고 볼거리가 화려한지도 모르겠다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 128,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 411,
+      "rank": 4,
+      "content": "몬스터주식회사의 문처럼 해리포터의 9와 3/4번 승강장처럼 또 다른 세계로의 이야기는 항상 내 취향을 저격한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 129,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 19995,
+      "rank": 2,
+      "content": "헐...이 영화..너무 과대평가 받는게 아닌가...",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 130,
+    "fields": {
+      "user_id": 19,
+      "movie_id": 496243,
+      "rank": 5,
+      "content": "모든 의미에서 참으로 시의적절하다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 131,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 335984,
+      "rank": 5,
+      "content": "씻어 지웠던 비, 덮어 간직할 눈",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 132,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 581528,
+      "rank": 4,
+      "content": "마동석이 쟤를 언제 패줄까만 기다리면서 봤다ㅋㅋㅋ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 133,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 157336,
+      "rank": 5,
+      "content": "인터스텔라를 안봤다면 당신이 살 이유가 하나 더 남은것이다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 134,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 361743,
+      "rank": 4,
+      "content": "노병은 죽지 않지만 사라진다 했던가. 어림없지. 오늘은 아니야.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 135,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 122917,
+      "rank": 3,
+      "content": "다섯 종족 피터지게 싸워도 레골라스의 허공답보만 남는 영화.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 136,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 496243,
+      "rank": 5,
+      "content": "계급사회에서 느끼는 우울한 무기력감",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 137,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 507086,
+      "rank": 3,
+      "content": "사골을 우려도 블록버스터 영화의 역사를 바꾼 영화는 기본빵은 한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 138,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 674,
+      "rank": 4,
+      "content": "해리와 론의 찐따력 폭발...",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 139,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 278,
+      "rank": 4,
+      "content": "나를 가둔건 환경이 아니다. 나의 의지인것이다!",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 140,
+    "fields": {
+      "user_id": 20,
+      "movie_id": 916224,
+      "rank": 3,
+      "content": "작품 전체가 길고 간절하게 수행하는 의례처럼 다가온다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 141,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 238,
+      "rank": 5,
+      "content": "영화 역사상 가장 품격있는 트릴로지. 더할 나위 없이 중후하고 장엄하며, 그럼에도 지루하지 않다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 142,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 198663,
+      "rank": 3,
+      "content": "스릴있는 '척'하는 지루까진 너무하고 그냥그런 영화. 엔딩도 너무 급전개였다. ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 143,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 493529,
+      "rank": 4,
+      "content": "보증된 세계관 안에서 매력 넘치는 캐릭터들을 어떻게 활용할지를 잘 안다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 144,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 27205,
+      "rank": 5,
+      "content": "한번도 안본 사람은 있어도 한번만 본 사람은 없을껄",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 145,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 808,
+      "rank": 4,
+      "content": "성공적인 비틀고 뒤집기 한판",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 146,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 606403,
+      "rank": 2,
+      "content": "가지가지한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 147,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 155,
+      "rank": 3,
+      "content": "차별화된 히어로물.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 148,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 640146,
+      "rank": 5,
+      "content": "그래픽 비쥬얼 팀 작정하고 영혼을 갈아 넣은 듯ㅋㅋ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 149,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 672,
+      "rank": 5,
+      "content": "제 입학용지는 어디다가 숨긴거죠 어머니",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 150,
+    "fields": {
+      "user_id": 21,
+      "movie_id": 70160,
+      "rank": 4,
+      "content": "승자독식사회(Winner takes it all)를 비꼬면서 트루먼쇼에서 지적한 대중의 관음증도 덤으로 비판하고 있다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 151,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 19995,
+      "rank": 1,
+      "content": "인디언을 연상케 하는 외계종족에 투영시킨 역사의 반성은 작위적이다 못해 서구 제국주의의 실체를 보는듯 하다. ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 152,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 299537,
+      "rank": 5,
+      "content": "\"I have nothing to prove to you.\" 캡틴 마블의 존재 이유, 이 영화를 봐야만 하는 이유",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 153,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 24428,
+      "rank": 4,
+      "content": "망작,명작 모두 모아 하나가 되는 그 순간.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 154,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 335984,
+      "rank": 4,
+      "content": "위대한 걸작을 진중하고 완벽하게 계승한 마스터피스!",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 155,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 453395,
+      "rank": 1,
+      "content": "큰기대에는 큰 싈망이 따른다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 156,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 674,
+      "rank": 2,
+      "content": "캐드릭 디고리, 뱀파이어로 환생하기까지 치열했던 삶의 과정.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 157,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 616037,
+      "rank": 4,
+      "content": "그..나만 재밌냐..?",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 158,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 414906,
+      "rank": 4,
+      "content": "진실을 확신할 수 없어도 행동하기를 멈추지 않는 자가 만들어낸 희망.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 159,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 411,
+      "rank": 4,
+      "content": "틸다 스윈튼을 알게해준 영화 혹시나하고 옷장을 몇번이나 열어봤는지 모르겠다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 160,
+    "fields": {
+      "user_id": 22,
+      "movie_id": 109445,
+      "rank": 4,
+      "content": "디즈니가 보여주고 싶은 것은 어떤 작품적인 요소가 아니라, 사랑 그 자체이다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 161,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 916224,
+      "rank": 5,
+      "content": "내가 로또 당첨되고 코인 대박나서 회사에 사직서내러 갈때나 볼 수 있을 것 같은 아름다운 출근길을 신카이 마코토 감독은 매일 보는 것 같다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 162,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 157336,
+      "rank": 5,
+      "content": "놀란의 상상은 끝이 없고 같은 명작을 반복한다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 163,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 606403,
+      "rank": 3,
+      "content": "괜찮은 카체이싱 장면과 수위 높은 액션 장면으로 영화가 완성되는게 아닌데, 그것만으로 영화 한 편 본 거 아니냐고 말하는 것 같다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 164,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 278,
+      "rank": 5,
+      "content": "아마도 아직도 앞으로도 나 뿐만 아니라 많은 영화를 사랑하는 이에게 오래 남을 영화 ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 165,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 299537,
+      "rank": 5,
+      "content": "이런 영화가 20년 전에 나와서 내가 보고 자랐다면 어떻게 변했을까? 포스터와 예고편만 봐도 보고싶어서 가슴이 설렌다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 166,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 808,
+      "rank": 4,
+      "content": "디즈니의 외모지상주의와 틀에 박힌 애니메이션들에게 반기를 드는 초록색 오우거.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 167,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 299534,
+      "rank": 5,
+      "content": "MCU 11년간 대장정의 가장 경이로운 마무리, 그 동안 함께여서 정말 감사하고 3000만큼 사랑합니다!",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 168,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 198663,
+      "rank": 1,
+      "content": "예측가능한 척의 감성팔이 복선",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 169,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 70160,
+      "rank": 4,
+      "content": "원작 소설이 대체 어느정도길래 이 영화를 깎아 내리는걸까.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 170,
+    "fields": {
+      "user_id": 23,
+      "movie_id": 661374,
+      "rank": 3,
+      "content": "까면 깔수록 계속 또 나오는 양파 같은 느낌보단, 한 겹 까면 곧장 알맹이가 나오는 낑깡 같은 느낌.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 171,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 27205,
+      "rank": 5,
+      "content": "이걸 영화관에서 안봤다는게 내 인생 최악의 실수다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 172,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 507086,
+      "rank": 3,
+      "content": "쥬라기공원과 쥬라기월드의 추억을 모두 이곳에 모았다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 173,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 361743,
+      "rank": 4,
+      "content": "수십 년의 협곡을 가로지르는, 그야말로 눈부시게 찬란한 활강.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 174,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 155,
+      "rank": 5,
+      "content": "왜 별이 5개 밖에 없지",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 175,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 238,
+      "rank": 4,
+      "content": "알파치노의 소름 돋는 연기",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 176,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 411,
+      "rank": 5,
+      "content": "나에겐 환상 그자체였던 영화다..",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 177,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 453395,
+      "rank": 4,
+      "content": "미친 멀티버스 속에서도 영화가 감독의 예술이란 걸 샘 레이미는 분명히 얘기한다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 178,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 493529,
+      "rank": 4,
+      "content": "좀 유치하긴한데.. 마블 망하기 전의 영화들이 이런 느낌 아니었나 오랜만에 느껴보는 흐뭇함이었다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 179,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 335984,
+      "rank": 5,
+      "content": "전설을 넘어선 완벽한 마스터피스, 암울한 디스토피아적 미래에서 던져진 '인간성'에 대하여...",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 180,
+    "fields": {
+      "user_id": 24,
+      "movie_id": 24428,
+      "rank": 3,
+      "content": "훌륭한 단장, 개성있는 서커스단, 화려한 SHOW.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 181,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 581528,
+      "rank": 3,
+      "content": "나쁘지 않은 느와르는 실패한 느와르다. 같잖은 우정이 들어가는 순간 기대는 실망으로 떨어졌다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 182,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 278,
+      "rank": 5,
+      "content": "다음 세기의 사람들도 이 영화를보고 감동받고 눈물흘릴것이다. 오랜 시간이 지나도 최고자리에 올라가있을 영화.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 183,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 198663,
+      "rank": 3,
+      "content": "달리고 나니 결국은 도돌이표",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 184,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 606403,
+      "rank": 3,
+      "content": "의외네...이거.. 선입견을 완전히 해소하진 못했지만 괜찮은 카체이싱과 액션 그리고 빼어난 배우들의 연기는 칭찬받을 만하다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 185,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 157336,
+      "rank": 5,
+      "content": "아버지의 우주, 시간과 함께하는 사랑. 나는 당신을 위해 남아있었지.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 186,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 616037,
+      "rank": 4,
+      "content": "이만하면 됐지! 유치해도 어때! 이게 토르고 이게 슈퍼 히어로물이지! 완전 내 취향이야!",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 187,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 335984,
+      "rank": 3,
+      "content": "'조(Joe)'라고 불려지길 바랬던 공허한 인간성으로 꽉찬 껍데기의 인(人)생.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 188,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 19995,
+      "rank": 2,
+      "content": "영화가 개봉 당시에 보여준 기술적 성취는 분명 그것만으로도 상당한 위업이다. ",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 189,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 493529,
+      "rank": 3,
+      "content": "익숙한 매력들을 어떤 방식으로 조합해야 파티 플레이 퀘스트를 깔끔하고 능숙하게 깰 수 있는지 잘 알고 있는 영화.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 190,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 671040,
+      "rank": 1,
+      "content": "그냥 몰라야겠다는 생각이 들면 어쩌죠.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 191,
+    "fields": {
+      "user_id": 25,
+      "movie_id": 27205,
+      "rank": 5,
+      "content": "아직 못 본 사람 부럽다. 소름 돋을 수 있어서...처음 봤을 때 그 전율을 다시 한번 느끼고싶다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 192,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 24428,
+      "rank": 1,
+      "content": "내 눈엔 그저 뻔하고 산만한 마블의 전형적 히어로물일 뿐이다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 193,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 672,
+      "rank": 4,
+      "content": "재미없는 해리포터 시리즈 찾는게 더 힘들지.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 194,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 453395,
+      "rank": 3,
+      "content": "80년대 호러 장르와 21세기 마블의 기묘한 동거",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 195,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 361743,
+      "rank": 4,
+      "content": "추억의 재료를 완벽히 요리하는 법, 저돌적인 비행에서 아름다운 감동으로.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 196,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 661374,
+      "rank": 4,
+      "content": "개봉 전부터 왜 제목이 글라스 어니언일까 궁금했는데 보고나니까 이것만큼 잘 맞아떨어지는 제목이 없다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 197,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 238,
+      "rank": 2,
+      "content": "시컨스가 너무 길어 호흡이 느려지는 것 말고는 스토리는 충분히 날 끌어들인다. 그러나 지루함은. 어쩔수없나보다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 198,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 616037,
+      "rank": 4,
+      "content": "슈퍼히어로는 원래 아이들껀데 다들 딥하고 진지한 얘길 너무 기대하는 거 같아",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 199,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 916224,
+      "rank": 3,
+      "content": "차마 발생하지 못했던 각자의 재난들을 제자리에 되돌려놓으며, 호기롭게 외치는 \"다녀왔습니다.\"",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 200,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 671040,
+      "rank": 3,
+      "content": "박화영'이 자극적인 설정들로 가득하지만, 그래도 박화영이란 인물의 외로움과 애정결핍, 혼란스러움 같은 감정들은 마음에 와닿았다.",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  },
+  {
+    "model": "movies.review",
+    "pk": 201,
+    "fields": {
+      "user_id": 26,
+      "movie_id": 155,
+      "rank": 5,
+      "content": "호랑이는 가죽을 남기고 히스레저는 조커를 남겼다",
+      "created_at": "2023-11-22T02:22:13.491507Z",
+      "updated_at": "2023-11-22T02:22:13.491507Z"
+    }
+  }
+]
